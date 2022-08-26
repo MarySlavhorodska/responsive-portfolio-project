@@ -82,6 +82,7 @@ div.content-container {
     font-size: 64px;
     line-height: 80px;
     font-family: var(--heading-font-family);
+    font-weight: bold;
 }
 
 .content h2 {
